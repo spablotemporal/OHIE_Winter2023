@@ -9,8 +9,8 @@ The schedule for our meetings is the following:
 
 You can find the guidelines of each session here:
   
-  - [Session 01](guidelines/Guideline 1- Discussion 1 -  2023winter.pdf)
-  - [Session 02](guidelines/Guideline 2- Discussion 2 -  2023winter.pdf)
+  - [Session 01]('guidelines/Guideline 1- Discussion 1 -  2023winter.pdf')
+  - [Session 02]('guidelines/Guideline 2- Discussion 2 -  2023winter.pdf')
 
 
 
