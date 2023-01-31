@@ -2,6 +2,8 @@
 
 This is a repository with resources for the One health interdisciplinary education workshop for winter 2023
 
+[Link for zoom meetings](https://ucdavis.zoom.us/j/98345758638?pwd=ZWMzY2dwVGQ3YTdDdXZyWWhVbDhWUT09)
+
 ## Guidelines
 
 The schedule for our meetings is the following:
