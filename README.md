@@ -6,11 +6,13 @@ This is a repository with resources for the One health interdisciplinary educati
 
 The schedule for our meetings is the following:
 
+<img src="guidelines/TF schedule.png" alt="" width="450" />
+
 
 You can find the guidelines of each session here:
   
-  - [Session 01]('guidelines/Guideline 1- Discussion 1 -  2023winter.pdf')
-  - [Session 02]('guidelines/Guideline 2- Discussion 2 -  2023winter.pdf')
+  - [Session 01](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%201-%20Discussion%201%20-%20%202023winter.pdf)
+  - [Session 02](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%202-%20Discussion%202%20-%20%202023winter.pdf)
 
 
 
