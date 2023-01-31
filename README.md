@@ -4,6 +4,8 @@ This is a repository with resources for the One health interdisciplinary educati
 
 [Link for zoom meetings](https://ucdavis.zoom.us/j/98345758638?pwd=ZWMzY2dwVGQ3YTdDdXZyWWhVbDhWUT09)
 
+--------
+
 ## Guidelines
 
 The schedule for our meetings is the following:
@@ -16,8 +18,13 @@ You can find the guidelines of each session here:
   - [Session 01](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%201-%20Discussion%201%20-%20%202023winter.pdf)
   - [Session 02](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%202-%20Discussion%202%20-%20%202023winter.pdf)
 
-
-
+-------
 
 # Zoom recordings:
  - [Session 01](https://ucdavis.zoom.us/rec/share/rT98LUHBhle9gxN-Bo-Td9hQ9Sicq7Cy_sazXh74Mnwqa_v8jsfNYptSpoVrqqbx.asyqovtmd3yuuo8s)
+ 
+------
+
+# Readings
+
+I made a directory to include relevant readings to our discussions, feel free to contribute by adding and sharing interesting readings you find, it can be anything! (nes reports, papers, book chapters, videos, etc)
