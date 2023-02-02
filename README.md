@@ -17,12 +17,13 @@ You can find the guidelines of each session here:
   
   - [Session 01](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%201-%20Discussion%201%20-%20%202023winter.pdf)
   - [Session 02](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%202-%20Discussion%202%20-%20%202023winter.pdf)
-  - - [Session 03](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%203-%20Discussion%203%20-%20%202023winter.pdf)
+  - [Session 03](https://github.com/spablotemporal/OHIE_Winter2023/blob/main/guidelines/Guideline%203-%20Discussion%203%20-%20%202023winter.pdf)
 
 -------
 
 # Zoom recordings:
  - [Session 01](https://ucdavis.zoom.us/rec/share/rT98LUHBhle9gxN-Bo-Td9hQ9Sicq7Cy_sazXh74Mnwqa_v8jsfNYptSpoVrqqbx.asyqovtmd3yuuo8s)
+ - [Session 02](https://zoom.us/rec/play/WWNpxY9SYyQGC6IWOZq77p4bhbzTH-H4HQ3a3ukF2YJ9Iuagn0SBTJKmcw5yOcdcU1LqOV91wkqkdO09.ejGGKNz084IrQkNt)
  
 ------
 
