@@ -24,11 +24,7 @@ You can find the guidelines of each session here:
 # Zoom recordings:
  - [Session 01](https://ucdavis.zoom.us/rec/share/rT98LUHBhle9gxN-Bo-Td9hQ9Sicq7Cy_sazXh74Mnwqa_v8jsfNYptSpoVrqqbx.asyqovtmd3yuuo8s)
  - [Session 02](https://zoom.us/rec/play/WWNpxY9SYyQGC6IWOZq77p4bhbzTH-H4HQ3a3ukF2YJ9Iuagn0SBTJKmcw5yOcdcU1LqOV91wkqkdO09.ejGGKNz084IrQkNt)
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 9f74ee8c1ad2b0fcfbdfcd93e3f04c30ed3d7646
 ------
 
 # Readings
